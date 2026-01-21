@@ -1,2 +1,3 @@
 # clone-tabnews
-Projeto de estudo 
+
+Projeto de estudo
